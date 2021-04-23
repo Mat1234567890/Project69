@@ -1,41 +1,53 @@
-body{
-text-align: center;
+body {
+    text-align: center;
 }
-#img{
-width: 800;
-border-radius: 10;
-border: 1;
+
+#img {
+    width: 800;
+    border-radius: 10;
+    border: 1;
 }
-iframe{
-width: 600;
-height:300
+
+iframe {
+    width: 600;
+    height: 300
 }
-span{
-align-items: center;
+
+span {
+    align-items: center;
 }
-#imgalumni{
-width: 600;
+
+#imgalumni {
+    width: 600;
 }
-img{
-width: 300;
+
+img {
+    width: 300;
 }
-#fb{
-height: 300px;
-width: 175px;
+
+#fb {
+    height: 300px;
+    width: 175px;
 }
-#bb{
-height: 300;
-width: 250;
+
+#bb {
+    height: 300;
+    width: 250;
 }
-#myNavbar{
-font-size: 20px;
+
+#myNavbar {
+    font-size: 20px;
 }
-.movie_head{
-font-size: 20px;
-padding: 6px 22px;
-border-radius: 10px;
-margin-bottom: 15px
+
+.movie_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    display: inline-block;
+    width: 100%;
 }
-.movie_head i{
-float: right;
+
+.movie_head i {
+    float: right;
 }
